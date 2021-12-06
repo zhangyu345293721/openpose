@@ -1,3 +1,1 @@
-# openposedemo
-
-#  openpose
+#  openpose python demo
