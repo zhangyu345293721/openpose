@@ -1,4 +1,4 @@
-#  openpose python demo
+#  openpose python use example
 #####  01_body_from_image.py
 #####  02_whole_body_from_image.py
 #####  04_keypoints_from_images.py
