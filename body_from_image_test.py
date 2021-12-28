@@ -1,8 +1,9 @@
-# -*- coding:utf-8 -*-
-'''
+# -*-coding:utf8-*-
+"""
+It requires OpenCV installed for Python  
 author:zhangyu
-date:2021/8/3
-'''
+email:zhangyuyu417@gmail.com
+"""
 from flask import Flask
 
 from flask import render_template
