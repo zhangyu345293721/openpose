@@ -1,5 +1,9 @@
-# From Python
-# It requires OpenCV installed for Python
+# -*-coding:utf8-*-
+"""
+It requires OpenCV installed for Python  
+author:zhangyu
+email:zhangyuyu417@gmail.com
+"""
 import sys
 import cv2
 import os
